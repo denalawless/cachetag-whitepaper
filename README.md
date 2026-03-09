@@ -2,7 +2,6 @@
 CacheTag™ eliminates redundant LLM generation at scale. Hashtag-triggered HashPacks™ return curated answers instantly — cutting prompt costs 80–95%, reducing latency, and adding a governed, auditable retrieval layer to any AI product.
 CacheTag™
 A hashtag-triggered, just-in-time retrieval system for AI.
-CacheTag™ eliminates redundant LLM generation at scale. Type a hashtag, get a curated HashPack™ instantly — cutting prompt costs 80–95%, reducing latency, and adding a governed, auditable retrieval layer to any AI product.
 
 The Problem
 Every AI tool in production regenerates the same answers over and over. Every repeated prompt burns compute, adds latency, and produces output that varies each time. At scale this is not a minor inefficiency — it is a structural flaw in how AI knowledge delivery works.
