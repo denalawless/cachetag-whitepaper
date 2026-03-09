@@ -3,7 +3,7 @@ CacheTag™ Whitepaper
 A Hashtag-Triggered, Just-In-Time Retrieval System for AI
 Author: Dena Lawless
 Contributing Originator: Abe Jarrett
-Version: 1.0 · March 2026
+Version: 2.0 · March 2026 (version 1.0 published in Nov, 2025)
 Status: Published
 CacheTag™ and HashPack™ are original concepts by Dena Lawless. All rights reserved.
 
